@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andra Rafi</h1> <h3 align="center">🚀 Aspiring Backend Developer | Informatics Student at Pamulang University</h3><br></br>
+<h1 align="center">Hi 👋, I'm Andra Rafi</h1> <h3 align="center">🚀 Aspiring Backend Developer | Informatics Student at Pamulang University</h3>
 
 
 # 💫 About Me:
